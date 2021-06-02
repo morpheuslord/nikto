@@ -1,8 +1,20 @@
 # nikto
 web pentest app for windows ready to use
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
 
 # essentials
-download the essentials.zip file
-extract the c, cpan, data folders to the main folder remember the folders mentioned must be in the main folder not under any folder
+download the essentials.zip file link:- 
+extract the perl, c, cpan, data folders to the main folder remember the folders mentioned must be in the main folder not under any folder if it is under any folder it can cause errors.
 
-# perl
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+
+# any doubt feel free
+**contact me**
+_twitter_ : @morpheuslord2
+_email_ : morpheuslord@protonmail.com
+_instagram_ : morpheuslord_9034
+
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
