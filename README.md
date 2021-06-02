@@ -1,3 +1,6 @@
+![Icon](https://cirt.net/images/nikto.png)
+[![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
+[![Instagram](https://img.shields.io/badge/instagram-morpheuslord_9034-yellow.svg)](https://instagram.com/morpheuslord_9034)
 # nikto
 web pentest app for windows ready to use
 ****************************************************************************************************************************************************************
